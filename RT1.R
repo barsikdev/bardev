@@ -79,7 +79,7 @@ send_gpt_request <- function(prompt, api_key, model_name) {
 }
 
 # важная часть
-api_key <- "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"
+api_key <- "#s#k-pr#oj-kx24I#999xVaObV#UIvr8w#T3Bl#bkF#JTAp#gNj5m#u#iS6m#ImT#aTN#w"
 model_name <- "gpt-4-1106-preview"
 prompt <- "You are thinking about investing in a £1,000 face value bond which will mature in two years. The bond has an 8% coupon and pays interest seminannually. The current yield to maturity on similar bonds is 6%, and rates are not expected to change.
 What is the bond’s price today?"
